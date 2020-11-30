@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Projeto JSP</title>
+<title>Curso JSP</title>
 </head>
 <body>
 <!-- Exemplos de utilização da biblioteca JSTL, declarada no início da página -->
